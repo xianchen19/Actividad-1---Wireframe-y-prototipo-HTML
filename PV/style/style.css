@@ -1,0 +1,24 @@
+body {
+    background-color: white;
+}
+
+#presentacion {
+    height: 500px;
+    background-image: url("https://picsum.photos/2000/500");
+    text-align: center;
+    padding-top: 180px;
+    color: white;
+}
+
+#conocenos {
+    padding-top: 50px;
+    padding-left: 400px;
+    padding-bottom: 50px;
+    background-color: antiquewhite;
+}
+
+#boto1 {
+    margin-left: 150px;
+    padding-left: 100px;
+    padding-right: 100px;
+}
