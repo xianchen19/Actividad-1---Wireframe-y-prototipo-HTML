@@ -1,0 +1,37 @@
+[
+  {
+    "titulo": "Loki Tour 2",
+    "artista": "Destripando la Historia",
+    "direccion": "Sant Jordi Club",
+    "fecha": "2023-12-16T13:30:51.345Z",
+    "precio": 45
+  },
+  {
+    "titulo": "Loki Tour",
+    "artista": "Destripando la Historia",
+    "direccion": "Sant Jordi Club",
+    "fecha": "2023-11-16T13:30:51.345Z",
+    "precio": 30
+  },
+  {
+    "titulo": "Periko Tour",
+    "artista": "Reno Renardo",
+    "direccion": "Palau Sant Jordi",
+    "fecha": "2023-12-19T19:30:51.345Z",
+    "precio": 10
+  },
+  {
+    "titulo": "Caqui Tour",
+    "artista": "",
+    "direccion": "Sant Jordi Club",
+    "fecha": "2023-12-15T13:30:51.345Z",
+    "precio": 0
+  },
+  {
+    "titulo": "Tito Tour",
+    "artista": "Christmas Is Coming",
+    "direccion": "Razzmatazz",
+    "fecha": "2023-12-25T22:59:59.345Z",
+    "precio": 30
+  }
+]
