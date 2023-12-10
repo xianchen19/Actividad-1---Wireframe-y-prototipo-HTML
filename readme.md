@@ -1,1 +1,0 @@
-En la carpeta "practica 2" esta hecho el juego con todos archivos locales y en la carpeta "practica 2 - mejora" se usan librerias externas como bootstrap, javascript y sweetalerts para mejorar la pagina web.
