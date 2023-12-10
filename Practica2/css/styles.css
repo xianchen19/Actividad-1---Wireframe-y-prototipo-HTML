@@ -1,0 +1,56 @@
+body.tema-claro {
+    background-color: #ffffff;
+    color: #000000;
+    margin: 0;
+}
+
+body.tema-oscuro {
+    background-color: #1a1a1a;
+    color: #ffffff;
+    margin: 0;
+}
+
+header {
+    padding: 10px;
+    border-bottom: 1px solid #ccc;
+}
+
+#logo {
+    max-width: 150px;
+}
+
+#contenedor-juego {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    gap: 5px;
+    max-width: 400px;
+    margin: 20px auto;
+}
+
+.cell {
+    padding: 30px;
+    box-sizing: border-box;
+    font-size: 20px;
+    font-weight: bold;
+    cursor: pointer;
+    border: 2px solid #fff;
+    color: #fff;
+}
+
+.light-blue {
+    background-color: #2a6496;
+}
+
+.dark-blue {
+    background-color: #004080;
+}
+
+.number-style {
+    font-size: 24px;
+    color: black;
+    font-family: Arial;
+    display: inline-block;
+    margin-top: 0;
+}
+
+
